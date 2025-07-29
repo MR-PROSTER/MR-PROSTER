@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madasu Praneeth</h1>
-<h3 align="center">— builder of things that (usually) work 😄 Currently diving into AR, Web3, and full-stack adventures @ IIIT Dharwad. 🛠️ I ship fast & fix faster 🎯 Hackathon junkie 💡 Big on ideas, bigger on execution Let’s code something cool together! 🚀</h3>
+<h3 align="center">— builder of things that (usually) work 😄 \n Currently diving into AR, Web3, and full-stack adventures @ IIIT Dharwad. 🛠️ I ship fast & fix faster 🎯 Hackathon junkie 💡 Big on ideas, bigger on execution Let’s code something cool together! 🚀</h3>
 
 <p align="left"> <a href="https://twitter.com/mrproster464" target="blank"><img src="https://img.shields.io/twitter/follow/mrproster464?logo=twitter&style=for-the-badge" alt="mrproster464" /></a> </p>
 
